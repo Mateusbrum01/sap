@@ -6,18 +6,36 @@ body{
 
 #amarelo{
     background-color: #ffee00;
-    padding: 10px;
+    padding: 5px;
 }
 
 #titulo{
     background-color:rgb(158, 158, 158);
-    height: 50px;;
+    height: 37px;;
     
     
 }
 
 #titulo1{
     margin: 15px;
-    font-size: 15px;
+    font-size: 7px;
     
+}
+
+.button{
+    display: flex;
+    height: 16px;
+    width: 35px;
+    align-items: center;
+    font-size: 4px;
+}
+
+.img{
+    margin: 3px;
+    height: 7px;
+    width: 10px;
+}
+
+#tamanho{
+    font-size: 2px;
 }
