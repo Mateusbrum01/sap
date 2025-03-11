@@ -47,6 +47,7 @@ height: 20px;
 
 #subtitulo{
     display: flex;
+    background-color: rgb(148, 148, 148);
 }
 .subtitulo_txt{
     margin: 10px;
@@ -54,4 +55,7 @@ height: 20px;
 
 .txt{
     font-size: 10px;
+    padding: 10px;
+    border: solid   rgb(133, 133, 133);
+    background-color: rgb(224, 224, 224);
 }
