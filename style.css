@@ -22,12 +22,17 @@ body{
     
 }
 
-.button{
+.flex{
     display: flex;
     height: 16px;
     width: 35px;
     align-items: center;
     font-size: 4px;
+}
+
+.button{
+width: 30px;
+height: 20px;
 }
 
 .img{
@@ -38,4 +43,15 @@ body{
 
 #tamanho{
     font-size: 2px;
+}
+
+#subtitulo{
+    display: flex;
+}
+.subtitulo_txt{
+    margin: 10px;
+}
+
+.txt{
+    font-size: 10px;
 }
